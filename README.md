@@ -1,17 +1,10 @@
 # git_assignment_HeroVired
 For Graded Assignment on Git and Git Hub
 
-# Deliverable -1 
+# Deliverable - feature -"Square Root"
 
 A ) CalculatorPlus App 
 
-Which have some mathematical functions and designed in Python.
-First it will be deployed and tested on "dev" branch.
-
-First Deployment of this App as version-1 will be pushed to "main" branch.
-
-Development team has been asked to Develop Square Root function.
-Work will be started in remote branch : feature/sqrt
-
+Adding the Square root code the Calculator Plus App 
 
 
