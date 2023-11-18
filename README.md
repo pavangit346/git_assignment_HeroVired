@@ -15,3 +15,7 @@ Added - geometry-calculator branch for
 merging the circle area and rect area code.
 
 
+# geomcalc
+added the circle area code
+
+
