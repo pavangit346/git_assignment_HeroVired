@@ -20,6 +20,8 @@ merging the circle area and rect area code.
 
 # geomcalc
 added the circle area code
+added the rectacngle area code
+finally moved to main from dev after staging.
 
 
 
