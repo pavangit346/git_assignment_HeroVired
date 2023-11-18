@@ -11,4 +11,6 @@ Implemented Divide function bug fix
 
 with the final merge , delivering the App as version -2 
 
+Added geom/rect area calculate code.
+
 
