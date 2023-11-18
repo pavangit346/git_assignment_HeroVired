@@ -7,4 +7,6 @@ A ) CalculatorPlus App
 
 Adding the Square root code the Calculator Plus App 
 
+Implemented Divide function bug fix
+
 
