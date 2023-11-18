@@ -12,3 +12,7 @@ Implemented Divide function bug fix
 with the final merge , delivering the App as version -2 
 
 
+# geomcalc
+added the circle area code
+
+
