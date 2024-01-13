@@ -1,4 +1,4 @@
-# git_assignment_HeroVired
+# git_assignment
 For Graded Assignment on Git and Git Hub
 
 # Deliverable - 1  (# Q1 )
